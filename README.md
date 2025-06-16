@@ -12,11 +12,11 @@ This is the ETL Project which Extracts data from spotify API using Aws services 
 
 3)Created Snowpipe and snowflake database, schemas, tables needed as per the tables that needs to load and loaded the data into it.
 
-Source:
+# Source:
 My Playlist
 ![image](https://github.com/user-attachments/assets/b90d7c02-f98d-411d-828b-f101365338be)
 
-Target sample data:
+# Target sample data:
 Album_data:
 ![image](https://github.com/user-attachments/assets/1dfb7a1a-a05b-486f-9c2a-85ba2615fdf0)
 Artist_data:
@@ -24,5 +24,5 @@ Artist_data:
 Song_data:
 ![image](https://github.com/user-attachments/assets/4c279b31-459f-4d14-a5e8-263aee4edaf2)
 
-Target count details:
+# Target count details:
 ![image](https://github.com/user-attachments/assets/93bddba2-d429-4e10-a881-724e58d00f58)
