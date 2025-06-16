@@ -1,7 +1,10 @@
 # Spotify_data_Apache_spark_project
 This is the ETL Project which Extracts data from spotify API using Aws services and loads the data into snowflake database.
 
-Project flow:
+# Architecture:
+![image](https://github.com/user-attachments/assets/fe36079a-18e3-40a7-b390-6609ab1deed6)
+
+# Project flow:
 
 1)Extract the data from spotify dev app. here i have took the URL of my songs playlist and using lambda and loaded the raw data to AWS S3.
 
